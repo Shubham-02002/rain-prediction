@@ -1,0 +1,2 @@
+# rain-prediction
+fuzzy model
